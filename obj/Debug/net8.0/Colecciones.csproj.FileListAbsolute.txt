@@ -1,0 +1,14 @@
+/Users/alex/Development/CSharp/Colecciones/bin/Debug/net8.0/Colecciones
+/Users/alex/Development/CSharp/Colecciones/bin/Debug/net8.0/Colecciones.deps.json
+/Users/alex/Development/CSharp/Colecciones/bin/Debug/net8.0/Colecciones.runtimeconfig.json
+/Users/alex/Development/CSharp/Colecciones/bin/Debug/net8.0/Colecciones.dll
+/Users/alex/Development/CSharp/Colecciones/bin/Debug/net8.0/Colecciones.pdb
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.AssemblyInfoInputs.cache
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.AssemblyInfo.cs
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.csproj.CoreCompileInputs.cache
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.dll
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/refint/Colecciones.dll
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.pdb
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/Colecciones.genruntimeconfig.cache
+/Users/alex/Development/CSharp/Colecciones/obj/Debug/net8.0/ref/Colecciones.dll
