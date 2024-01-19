@@ -71,7 +71,8 @@ namespace Colecciones
                         j = Alumnos.IndexOf(alumno);
                         if (j != -1)
                         {
-                            Console.WriteLine("Alumno encontrado: {0}", Alumnos[j]);
+                            Console.WriteLine("El alumno {0} tiene el numero de lista {1}",
+                             Alumnos[j], j + 1);
                         }
                         else
                         {
